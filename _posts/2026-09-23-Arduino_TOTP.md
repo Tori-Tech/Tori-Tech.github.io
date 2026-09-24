@@ -18,7 +18,7 @@ So, I changed gears and did some research. Would it be possible to construct the
 
 First, I had to navigate the maze of wires that was involved in setting up the LCD screen. In case you're wondering what that looks like, here's a reconstructed diagram from Tinkercad.
 
-![Arduino Uno and LCD screen wiring schematic from Tinkercad](../assets/img/TOTP_Diagram.png)
+![Arduino Uno and LCD screen wiring schematic from Tinkercad](../assets/img/Diagram.png)
 
 That round dial in the diagram is a potentiometer, and it's just there to allow you to control the LCD screen's contrast. 
 
