@@ -14,13 +14,13 @@ timezone: UTC
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: 'Tori Talks Tech' # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the subtitle
+tagline: 'Hacking, development, and all stuff cybyersecurity happens here.'  # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
-
+ Welcome to Tori Talks Tech, a place where I discuss and document things related to my cybersecurity journey. 
+ I post content related to penetration testing, ethical hacking in general, Arduino projects, and sometimes software or tool development.
 # Fill in the protocol & hostname for your site.
 url: "https://github.com/Tori-Tech"
 
@@ -83,7 +83,7 @@ pageviews:
 #     light — Use the light color scheme
 #     dark — Use the dark color scheme
 #
-theme_mode: # [light | dark]
+theme_mode: 'dark'
 
 # The CDN endpoint for media resources.
 # Notice that once it is assigned, the CDN url
@@ -93,7 +93,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: 
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
