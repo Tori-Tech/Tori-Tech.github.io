@@ -1,6 +1,6 @@
 ---
 title: "SSH Writeup"
-layout: page
+layout: post
 date: 2026-09-20 12:00:00 +0000
 categories: [Cybersecurity, Hacking, Reports]
 tags: [penetration-testing, CTF, writeup, ethical_hacking]
