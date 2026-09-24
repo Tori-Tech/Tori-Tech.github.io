@@ -1,9 +1,10 @@
 
 ---
-title: "Your Post Title Here"
+title: "SSH Writeup"
 date: 2026-09-20 12:00:00 +0000
 categories: [Cybersecurity, Hacking, Reports]
 tags: [penetration-testing, CTF, writeup, ethical_hacking]
+published: true
 ---
 
 # SSH CTF Writeup
