@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "I Hacked My Dog"
-date: 2026-10-05
-tags: [appsecurity, reverse-engineering, android, infosec, cybersecurity, ble, iot]
+date: 2026-10-04
+tags: [app-security, reverse-engineering, android, infosec, cybersecurity, ble, iot]
 ---
 
 
