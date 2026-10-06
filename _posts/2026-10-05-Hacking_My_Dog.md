@@ -1,3 +1,11 @@
+---
+layout: post
+title: "I Hacked My Dog"
+date: 2026-10-05
+tags: [appsecurity, reverse-engineering, android, infosec, cybersecurity, ble, iot]
+---
+
+
 Today, I hacked my dog.
 
 That's not a sentence you see very often, is it? Well, you're going to see it, and other sentences like it, pretty frequently in this article, because that's exactly what I did. A relative had gifted me a RapidPower smart dog because they thought I'd like it, completely unaware that I would make it the centerpiece of an interesting cybersecurity experiment. 
