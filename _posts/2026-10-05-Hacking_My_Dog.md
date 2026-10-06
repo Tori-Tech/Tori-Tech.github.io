@@ -4,7 +4,7 @@ That's not a sentence you see very often, is it? Well, you're going to see it, a
 
 The dog, which looks like this,
 
-![Picture of a robot dog](dog.webp)
+![Picture of a robot dog](../assets/img/dog.webp)
 
 came with a controller populated with buttons. Each button executes a different command. You had your basic left-right-forward controls, (no backwards movement, likely due to the way the wheels rotate; I observed they would lock up if rolled backwards) and more specialized commands that made the dog sit, greet (shake its hand), pretend to swim, "attack", go to sleep, and even do some kung fu.
 
