@@ -125,3 +125,8 @@ I ended up installing Universal BLE on an Android phone and connected to the rob
 The rush of dopamine that flooded my brain as my robot dog immediately began throwing punches was unlike anything else, because it meant that I had hacked my dog.
 
 Ultimately, the main takeaway from this whole experiment is this: The robot dog implements no pairing mechanism with any devices and lacks encryption on its BLE characteristics. Anyone within Bluetooth range can broadcast these exact HEX values to any active RapidPower dog and control it. Although this is quite harmless for a toy, a similar lack of transport-layer security in other IoT devices is a dangerous and perhaps even pervasive issue.
+
+
+
+**Disclaimer**
+This project was created strictly for educational purposes, personal use, and to achieve interoperability with a legacy device that is no longer supported by modern operating systems. All research was conducted on hardware legally owned by the author. The author does not claim ownership of any intellectual property associated with the original manufacturer, nor is this project intended for commercial use or distribution of proprietary software.
