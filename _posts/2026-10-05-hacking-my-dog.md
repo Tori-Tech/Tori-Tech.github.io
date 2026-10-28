@@ -129,4 +129,6 @@ Ultimately, the main takeaway from this whole experiment is this: The robot dog 
 
 
 **Disclaimer**
+
+
 This project was created strictly for educational purposes, personal use, and to achieve interoperability with a legacy device that is no longer supported by modern operating systems. All research was conducted on hardware legally owned by the author. The author does not claim ownership of any intellectual property associated with the original manufacturer, nor is this project intended for commercial use or distribution of proprietary software.
